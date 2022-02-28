@@ -6,4 +6,4 @@ raio = int(input('Insira o raio do círculo: '))
 
 areaCirculo = math.pi * raio * raio
 
-print('A área do círculo é: ' + str(areaCirculo))
+print('A área do círculo é: ' , areaCirculo)
